@@ -22,7 +22,7 @@ Clone the script.
 git clone https://github.com/mincerray1/frappe-wsl.git
 ```
 ```
-cd wsl-frappe
+cd frappe-wsl
 ```
 ```
 bash ./install.sh
